@@ -528,13 +528,13 @@ overflow-y: hidden;
         top: 30px;
     }
 
-    @media(max-width: 500px){
+    @media(max-width: 600px){
         .container{
-            max-width: 500px;
+            max-width: 600px;
             height: auto;
         }
         .navbar-header{
-            max-width: 500px;
+            max-width: 700px;
             height: 60px;
             padding: 0.5em;
             background:#000;
@@ -618,17 +618,17 @@ overflow-y: hidden;
     }
     
     .servicespage{
-        max-width: 500px;
+        max-width: 6ss00px;
         height: 1280px;
         
     }
     .servicespage h2{
         font-size: 30px;
         font-weight: bold;
-        left: 100px;
+        left: 80px;
     }
     .contact-form-box{
-        max-width: 500px;
+        max-width: 600px;
         height: 800px
     }
     .contact-form-box h2{
